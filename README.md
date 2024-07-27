@@ -5,4 +5,4 @@ It is a DSA problem for ecnryption and decryption. Enter a text to create a Huff
 decryption key to decode the encoded file.
 
 ### **Emergency Travel Plan** : 
-Given a graph representing cities with vertices representing road and air routes goal is to find the minimal path for the traveler to reach his destination using BFS traversal.
+Given a graph with nodes representing cities and vertices representing road or air routes, goal is to find the minimal path for the traveler to reach his destination using BFS traversal.
